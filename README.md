@@ -19,6 +19,7 @@ Follow the steps below to run the application locally:
 Clone the Repository
 
 git clone https://github.com/kamranraz28/device-simulator.git
+
 cd device-simulator
 
 
